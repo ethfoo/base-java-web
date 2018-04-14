@@ -1,0 +1,38 @@
+logs
+log
+
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+pop-helpcenter-system-server/pop-busischool-web/src/main/webapp
+pop-helpcenter-system-server/pop-helpcenter-web/src/main/webapp
+
+#vscode ignore
+.vscode
