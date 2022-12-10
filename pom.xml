@@ -13,7 +13,7 @@
         <slf4j.version>1.7.24</slf4j.version>
         <log4j.version>1.2.16</log4j.version>
         <fastjson.version>1.1.41</fastjson.version>
-        <spring.version>4.1.7.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <junit.version>3.8.1</junit.version>
         <source.level>1.7</source.level>
     </properties>
